@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<script src="http://maps.googleapis.com/maps/api/js?sensor=false&amp;libraries=places&types=(regions)&key=AIzaSyBH6tZ7PcZU-3TjNJdBIo1MnGhbaKCKCYg" type="text/javascript"></script>
+
+
+<title>CRR</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body id="top">
+
+<div class="wrapper row1">
+  <header id="header" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div id="logo" class="fl_left">
+      <h1><a href="index.html">Centralized</a></h1>
+    </div>
+    <!-- ################################################################################################ -->
+    <nav id="mainav" class="fl_right">
+      <ul class="clear">
+        <li class="active"><a href="index.html">Home</a></li>
+        <li><a class="drop" href="#">CATEGORIES</a>
+          <ul>
+            <li><a href="pages/gallery.html">HOTELS</a></li>
+            <li><a href="pages/full-width.html">RESTAURANTS</a></li>
+            <li><a href="pages/sidebar-left.html">FLIGHTS</a></li>
+            <li><a href="pages/sidebar-right.html">BUSES</a></li>
+          </ul>
+        </li>
+        <li><a class="drop" href="#">REVIEWS</a>
+          <ul>
+            <li><a href="#">Level 2</a></li>
+            <li><a class="drop" href="#">Level 2 + Drop</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+        </li>
+        <li><a href="#">RATINGS</a></li>
+        <li><a href="#">OTHER</a></li>
+      </ul>
+    </nav>
+    <!-- ################################################################################################ -->
+  </header>
+</div>
+<div class="bgded" style="background-image:url('images/demo/backgrounds/01.png');"> 
+  <div class="wrapper">
+    <article id="pageintro" class="hoc clear"> 
+      <!-- ################################################################################################ -->
+      
+     <center><h1 class="white">FIND BEST REVIEWS AND RATINGS HERE!!</h1></center>
+      <center>
+      <div class="row">
+      <form action="search.php" method="get">
+       <div class="col-md-3"></div>
+       <div class="col-md-5">
+        
+          <div class="form-group">
+              <input class="form-control" id="keyword" name="keyword" type="text" placeholder="Search for any city here...." required>
+              
+          </div>
+             
+       
+        
+      </div>
+      <div class="col-md-1 form-group">
+        <input type="submit" value="search" class="btn btn-warning">
+      </div>
+       </form>
+      </div>
+     </center>
+    </article>
+  </div>
+  
+</div>
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    <div class="one_half first"><img class="inspace-10 borderedbox" src="images/demo/480x480.png" alt=""></div>
+    <div class="one_half"><br>
+      <h2 class="heading">HOTELS</h2>
+      <p>YOU CAN FIND BEST REVIEWS OF ALL HOTELS HERE</p>
+      <ul class="fa-ul">
+        <li class="one_half first btmspace-10"><i class="fa-li fa fa-male"></i> <a href="#">VISIT</a></li>
+      </ul>
+     
+    </div>
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="layout/scripts/jquery.min.js"></script>
+<script src="layout/scripts/jquery.backtotop.js"></script>
+<script src="layout/scripts/jquery.mobilemenu.js"></script>
+<!-- IE9 Placeholder Support -->
+<script src="layout/scripts/jquery.placeholder.min.js"></script>
+<script type="text/javascript">
+  
+  var autocomplete = new google.maps.places.Autocomplete(document.getElementById('keyword'), { types: ['(cities)']});
+</script>
+
+<!-- / IE9 Placeholder Support -->
+</body>
+</html>
