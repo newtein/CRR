@@ -1,5 +1,6 @@
 <?php
 include 'stardel.php';
+
 $hid=$_POST['postid'];
 
 $curl = curl_init();
@@ -33,6 +34,7 @@ foreach($json as $key=>$value){
 	  $maxR++;
 	  }
 }
+
 
 
 ?>

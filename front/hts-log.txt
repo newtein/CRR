@@ -1,0 +1,16 @@
+HTTrack3.48-22+htsswf+htsjava launched on Sun, 09 Apr 2017 20:24:35 at http://sohelrana.me/hotel/default/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://sohelrana.me/hotel/default/ -O1 "C:\My Web Sites\crr" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:29:56	Warning: 	File not parsed, looks like binary: sohelrana.me/hotel/default/fonts/glyphicons-halflings-regular.woff2
+20:29:56	Warning: 	File not parsed, looks like binary: sohelrana.me/hotel/default/css/font-awesome-4.5.0/fonts/fontawesome-webfont.woff2?v=4.5.0
+20:29:56	Error: 	"Not Found" (404) at link sohelrana.me/hotel/default/css/PIE.htc (from sohelrana.me/hotel/default/css/style.css)
+20:29:56	Error: 	"Not Found" (404) at link sohelrana.me/hotel/default/rooms-list-html (from sohelrana.me/hotel/default/rooms-list.html)
+20:29:56	Error: 	"Not Found" (404) at link sohelrana.me/hotel/default/www.sohelrana.me (from sohelrana.me/hotel/default/contact.html)
+
+HTTrack Website Copier/3.48-22 mirror complete in 5 minutes 21 seconds : 151 links scanned, 147 files written (8606718 bytes overall) [8645242 bytes received at 26932 bytes/sec], 1.8 requests per connection
+(3 errors, 2 warnings, 0 messages)
