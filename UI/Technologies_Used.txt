@@ -1,0 +1,10 @@
+Front-End: Bootstrap, JQuery, JSON, AJAX and CSS
+
+Back-End: PHP 
+
+Database Type: 
+Realtime: Majorly Dynamic Crawling
+MySQL: For storing IDs
+
+
+Others: Python (Beautiful soup, Requests)
