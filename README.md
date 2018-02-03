@@ -1,10 +1,19 @@
 # Centralized Reviews and Ratings - "Review Pool"
 Developed an integrated platform for reviews and ratings of multiple services namely, Hotels, Food, Flights and Jobs [Details Readme.md]. In-order to aggregate the information we used API's of TripAdvisor, Zomato, goibibo and GlassDoor.
 
-Problem Statement
+## Problem Statement
 
 Just before using or buying any service we tend to check its reviews and ratings from various online websites, Through this project we attempt to provide user a single platfrom to browse reviews and ratings. The major outcome of this project is concept of real time crawling. We provide information to user on real time basis without using rigid databases. Currently we provided four services namely Hotels, Restaurants, Flights and Workplaces. For this we have integrated various API from many famous websites.
 ![alt text](https://raw.githubusercontent.com/newtein/CRR/master/UI/1.%20welcome_page.JPG)
+
+## Technologies Used
+
+Front-End: Bootstrap, JQuery, JSON, AJAX, CSS and Python (Beautiful soup, Requests)
+Back-End: PHP 
+
+Database Type
+Realtime: Majorly Dynamic Crawling
+MySQL: For storing IDs
 
 ## Hotels: 
 
