@@ -37,7 +37,7 @@ Zomato: Parsed using JSON
 ![alt text](https://raw.githubusercontent.com/newtein/CRR/master/UI/10.%20Restaurant_search.JPG)
 
 ### Search Results for Noida, India
-![alt text](https://raw.githubusercontent.com/newtein/CRR/master/UI/11.results.JPG)
+![alt text](https://raw.githubusercontent.com/newtein/CRR/master/UI/11.%20results.JPG)
 
 ### Reviews and Ratings
 
@@ -45,13 +45,13 @@ Zomato: Parsed using JSON
 
 ### More Reviews and Ratings
 
-![alt text](https://raw.githubusercontent.com/newtein/CRR/master/UI/13.%20more_reviews.JPG.JPG)
+![alt text](https://raw.githubusercontent.com/newtein/CRR/master/UI/13.%20more_reviews.JPG)
 
 ## Workplaces:
 
 GlassDoor: Parsed using JSON
 
-![alt text](6.%20workplaces_search.JPG)
+![alt text](https://raw.githubusercontent.com/newtein/CRR/master/UI/6.%20workplaces_search.JPG)
 
 ### Search Results for Samsung, Bangalore, India
 ![alt text](https://raw.githubusercontent.com/newtein/CRR/master/UI/7.results_glassdoor.JPG)
