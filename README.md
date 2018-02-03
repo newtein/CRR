@@ -19,7 +19,7 @@ This api is not the affiliate api of Goibibo. (Used for learning purpose only)
 
 ![alt text](https://raw.githubusercontent.com/newtein/CRR/master/UI/4.%20real_time_reviews.JPG)
 ### All Reviews
-![alt text](https://raw.githubusercontent.com/newtein/CRR/master/UI/5.%20all reviews.JPG)
+![alt text](https://raw.githubusercontent.com/newtein/CRR/master/UI/5.%20all%20reviews.JPG)
 
 ## Flights:
 
