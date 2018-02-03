@@ -1,4 +1,4 @@
-# CRR
+# Centralized Reviews and Ratings - "Review Pool"
 Developed an integrated platform for reviews and ratings of multiple services namely, Hotels, Food, Flights and Jobs [Details Readme.md]. In-order to aggregate the information we used API's of TripAdvisor, Zomato, goibibo and GlassDoor.
 
 Problem Statement
