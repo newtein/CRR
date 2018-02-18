@@ -1,7 +1,7 @@
 # Centralized Reviews and Ratings - "Review Pool"
 Developed an integrated platform for reviews and ratings of multiple services namely, Hotels, Food, Flights and Jobs. In-order to aggregate the information we used API's of TripAdvisor, Zomato, goibibo and GlassDoor.
 
-### Illustrative Readme with snapshots of implemented Web-Application.
+### Published Web-Page is available <a href="https://newtein.github.io/CRR/" target="_blank"> here.</a>
 
 
 ![alt text](https://raw.githubusercontent.com/newtein/CRR/master/UI/1.%20welcome_page.JPG)
